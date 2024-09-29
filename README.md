@@ -92,7 +92,12 @@ brew cleanup
 
 ## Git
 
+Basic:
 https://www.youtube.com/watch?v=i_23KUAEtUM
+
+Problems:
+https://www.studocu.com/en-au/messages/question/8509507/in-visual-studio-code-what-does-git-fatal-head-is-not-a-commit-and-branch-cannot-be-created
+
 
 
 
