@@ -90,6 +90,12 @@ brew cleanup
 ```
 
 
+## Git
+
+https://www.youtube.com/watch?v=i_23KUAEtUM
+
+
+
 
 
 
