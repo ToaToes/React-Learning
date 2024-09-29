@@ -57,6 +57,17 @@ Note: show hidden files for mac: https://support.carbonite.com/articles/Personal
 Sudo causing problems: Permission denied for altering js files
 https://stackoverflow.com/questions/51967335/npm-install-permission-denied-macos
 
+
+To check the location of the package:
+```npm config get prefix```
+
+Delete Node Modules OR Reinstall Node if still not working
+Then direct to the project path, Check the permissions of your project directory:
+```ls -l /path_to_project```
+Ensure that user has the appropriate permissions. change the ownership:
+```sudo chown -R $(whoami) /path_to_project```
+
+
 ## Reinstall
 
 ```
