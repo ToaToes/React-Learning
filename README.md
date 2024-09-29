@@ -48,3 +48,16 @@ npm install
 npm run dev
 ```
 
+## React to start with (on WIN)
+
+## Solution encountering problems
+
+Note: show hidden files for mac: https://support.carbonite.com/articles/Personal-Pro-Mac-Displaying-Hidden-Library-Folder
+
+Sudo causing problems: Permission denied for altering js files
+https://stackoverflow.com/questions/51967335/npm-install-permission-denied-macos
+
+
+
+
+
