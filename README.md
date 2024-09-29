@@ -57,6 +57,25 @@ Note: show hidden files for mac: https://support.carbonite.com/articles/Personal
 Sudo causing problems: Permission denied for altering js files
 https://stackoverflow.com/questions/51967335/npm-install-permission-denied-macos
 
+## Reinstall
+
+```
+brew uninstall node
+```
+check versions
+```
+node -v
+npm -v
+```
+clean up any unused dependencies or old versions of packages with:
+```
+brew cleanup
+```
+
+
+
+
+
 
 
 
